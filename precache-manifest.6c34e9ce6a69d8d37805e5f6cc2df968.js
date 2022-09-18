@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60a5491400bd8ebcad4feb952e252528",
+    "revision": "23e9493b62840564948be49c66eedbfd",
     "url": "/index.html"
   },
   {
-    "revision": "41e822acae8ff330cca4",
+    "revision": "2c58373b8329b7a26a31",
     "url": "/static/css/2.7169e904.chunk.css"
   },
   {
-    "revision": "c8b2be834fe1dcde0021",
-    "url": "/static/css/main.cb958bb6.chunk.css"
+    "revision": "8ca571672a5fe6ce3e18",
+    "url": "/static/css/main.2da7a663.chunk.css"
   },
   {
-    "revision": "41e822acae8ff330cca4",
-    "url": "/static/js/2.db3dfc96.chunk.js"
+    "revision": "2c58373b8329b7a26a31",
+    "url": "/static/js/2.4950f3d1.chunk.js"
   },
   {
     "revision": "31066e87713c4bbb925e8ab9f3cf502c",
-    "url": "/static/js/2.db3dfc96.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4950f3d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8b2be834fe1dcde0021",
-    "url": "/static/js/main.b3abf75f.chunk.js"
+    "revision": "8ca571672a5fe6ce3e18",
+    "url": "/static/js/main.82617038.chunk.js"
   },
   {
     "revision": "4aa0efac19c0ac88bd31",
@@ -188,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/f_man.20b27179.png"
   },
   {
+    "revision": "65f645907066f5790f63a17f506216cc",
+    "url": "/static/media/firstYearGuide_Banner.65f64590.png"
+  },
+  {
     "revision": "1a5b42ae895ad2ca4df9cae1a09a1c33",
     "url": "/static/media/icebg.1a5b42ae.jpg"
   },
@@ -226,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1fc2d46583cf67106413cbd92769f85b",
     "url": "/static/media/man.1fc2d465.jpg"
+  },
+  {
+    "revision": "7c73cabaa71ec6d3dabfbc1a7de1d511",
+    "url": "/static/media/mindfulness-banner-01.7c73caba.png"
   },
   {
     "revision": "d871640b32b141ebd58980f3bd4a483d",

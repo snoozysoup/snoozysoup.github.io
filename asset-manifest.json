@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb958bb6.chunk.css",
-    "main.js": "/static/js/main.b3abf75f.chunk.js",
-    "main.js.map": "/static/js/main.b3abf75f.chunk.js.map",
+    "main.css": "/static/css/main.2da7a663.chunk.css",
+    "main.js": "/static/js/main.82617038.chunk.js",
+    "main.js.map": "/static/js/main.82617038.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfa21ac3.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfa21ac3.js.map",
     "static/css/2.7169e904.chunk.css": "/static/css/2.7169e904.chunk.css",
-    "static/js/2.db3dfc96.chunk.js": "/static/js/2.db3dfc96.chunk.js",
-    "static/js/2.db3dfc96.chunk.js.map": "/static/js/2.db3dfc96.chunk.js.map",
+    "static/js/2.4950f3d1.chunk.js": "/static/js/2.4950f3d1.chunk.js",
+    "static/js/2.4950f3d1.chunk.js.map": "/static/js/2.4950f3d1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.61b53b9fcf2205ca03256e6722e3499f.js": "/precache-manifest.61b53b9fcf2205ca03256e6722e3499f.js",
+    "precache-manifest.6c34e9ce6a69d8d37805e5f6cc2df968.js": "/precache-manifest.6c34e9ce6a69d8d37805e5f6cc2df968.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7169e904.chunk.css.map": "/static/css/2.7169e904.chunk.css.map",
-    "static/css/main.cb958bb6.chunk.css.map": "/static/css/main.cb958bb6.chunk.css.map",
-    "static/js/2.db3dfc96.chunk.js.LICENSE.txt": "/static/js/2.db3dfc96.chunk.js.LICENSE.txt",
+    "static/css/main.2da7a663.chunk.css.map": "/static/css/main.2da7a663.chunk.css.map",
+    "static/js/2.4950f3d1.chunk.js.LICENSE.txt": "/static/js/2.4950f3d1.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.b4ed80d5.jpg",
     "static/media/1.png": "/static/media/1.edc21cc3.png",
     "static/media/10.jpg": "/static/media/10.8f2d49be.jpg",
@@ -45,6 +45,7 @@
     "static/media/creative_bg1.jpg": "/static/media/creative_bg1.2c7628a1.jpg",
     "static/media/design-logo4.png": "/static/media/design-logo4.cc583d9d.png",
     "static/media/f_man.png": "/static/media/f_man.20b27179.png",
+    "static/media/firstYearGuide_Banner.png": "/static/media/firstYearGuide_Banner.65f64590.png",
     "static/media/icebg.jpg": "/static/media/icebg.1a5b42ae.jpg",
     "static/media/img-3.jpg": "/static/media/img-3.b8328fd0.jpg",
     "static/media/img.svg": "/static/media/img.978fe695.svg",
@@ -55,6 +56,7 @@
     "static/media/line4.png": "/static/media/line4.4eaa8444.png",
     "static/media/man.png": "/static/media/man.107d9562.png",
     "static/media/man.jpg": "/static/media/man.1fc2d465.jpg",
+    "static/media/mindfulness-banner-01.png": "/static/media/mindfulness-banner-01.7c73caba.png",
     "static/media/mobile.svg": "/static/media/mobile.d871640b.svg",
     "static/media/new1.jpg": "/static/media/new1.b3c89bef.jpg",
     "static/media/our-coaches-2.jpg": "/static/media/our-coaches-2.29e8b29e.jpg",
@@ -91,8 +93,8 @@
   "entrypoints": [
     "static/js/runtime-main.bfa21ac3.js",
     "static/css/2.7169e904.chunk.css",
-    "static/js/2.db3dfc96.chunk.js",
-    "static/css/main.cb958bb6.chunk.css",
-    "static/js/main.b3abf75f.chunk.js"
+    "static/js/2.4950f3d1.chunk.js",
+    "static/css/main.2da7a663.chunk.css",
+    "static/js/main.82617038.chunk.js"
   ]
 }
