@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.2da7a663.chunk.css",
-    "main.js": "/static/js/main.82617038.chunk.js",
-    "main.js.map": "/static/js/main.82617038.chunk.js.map",
+    "main.js": "/static/js/main.67356f95.chunk.js",
+    "main.js.map": "/static/js/main.67356f95.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfa21ac3.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfa21ac3.js.map",
     "static/css/2.7169e904.chunk.css": "/static/css/2.7169e904.chunk.css",
-    "static/js/2.4950f3d1.chunk.js": "/static/js/2.4950f3d1.chunk.js",
-    "static/js/2.4950f3d1.chunk.js.map": "/static/js/2.4950f3d1.chunk.js.map",
+    "static/js/2.660a103c.chunk.js": "/static/js/2.660a103c.chunk.js",
+    "static/js/2.660a103c.chunk.js.map": "/static/js/2.660a103c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6c34e9ce6a69d8d37805e5f6cc2df968.js": "/precache-manifest.6c34e9ce6a69d8d37805e5f6cc2df968.js",
+    "precache-manifest.02e85df9fdaca4523937b78b09daf825.js": "/precache-manifest.02e85df9fdaca4523937b78b09daf825.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7169e904.chunk.css.map": "/static/css/2.7169e904.chunk.css.map",
     "static/css/main.2da7a663.chunk.css.map": "/static/css/main.2da7a663.chunk.css.map",
-    "static/js/2.4950f3d1.chunk.js.LICENSE.txt": "/static/js/2.4950f3d1.chunk.js.LICENSE.txt",
+    "static/js/2.660a103c.chunk.js.LICENSE.txt": "/static/js/2.660a103c.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.b4ed80d5.jpg",
     "static/media/1.png": "/static/media/1.edc21cc3.png",
     "static/media/10.jpg": "/static/media/10.8f2d49be.jpg",
@@ -32,6 +32,7 @@
     "static/media/style.css": "/static/media/shap1.94de0520.png",
     "static/media/flaticon.css": "/static/media/Flaticon.ceeb894f.woff2",
     "static/media/IMG_1118.jpg": "/static/media/IMG_1118.692e5b25.jpg",
+    "static/media/IMG_4084.jpg": "/static/media/IMG_4084.456bfa3a.jpg",
     "static/media/Sail-Away.jpg": "/static/media/Sail-Away.b40f85cb.jpg",
     "static/media/agency-skill.jpg": "/static/media/agency-skill.f6fa4968.jpg",
     "static/media/angular.png": "/static/media/angular.a8390908.png",
@@ -40,7 +41,9 @@
     "static/media/blog-1.jpg": "/static/media/blog-1.58a42f37.jpg",
     "static/media/blog-2.jpg": "/static/media/blog-2.46593e52.jpg",
     "static/media/bottomshape.png": "/static/media/bottomshape.77982eeb.png",
+    "static/media/camp.jpg": "/static/media/camp.74373335.jpg",
     "static/media/code.png": "/static/media/code.631927f8.png",
+    "static/media/collage1.png": "/static/media/collage1.6509f734.png",
     "static/media/contact.svg": "/static/media/contact.53982e80.svg",
     "static/media/creative_bg1.jpg": "/static/media/creative_bg1.2c7628a1.jpg",
     "static/media/design-logo4.png": "/static/media/design-logo4.cc583d9d.png",
@@ -93,8 +96,8 @@
   "entrypoints": [
     "static/js/runtime-main.bfa21ac3.js",
     "static/css/2.7169e904.chunk.css",
-    "static/js/2.4950f3d1.chunk.js",
+    "static/js/2.660a103c.chunk.js",
     "static/css/main.2da7a663.chunk.css",
-    "static/js/main.82617038.chunk.js"
+    "static/js/main.67356f95.chunk.js"
   ]
 }
