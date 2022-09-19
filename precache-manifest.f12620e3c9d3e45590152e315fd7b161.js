@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c22b1fcdc3bc5c1dcfb7ea3039d0c70f",
+    "revision": "0131d678ef82ce19cf05a56333bc0129",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.7169e904.chunk.css"
   },
   {
-    "revision": "67ab86a22437dc6fff4b",
+    "revision": "cca751254b39dc9ca4f6",
     "url": "/static/css/main.90c80860.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.a77b18b2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67ab86a22437dc6fff4b",
-    "url": "/static/js/main.265b13ed.chunk.js"
+    "revision": "cca751254b39dc9ca4f6",
+    "url": "/static/js/main.90462e31.chunk.js"
   },
   {
     "revision": "4aa0efac19c0ac88bd31",
@@ -54,6 +54,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "692e5b25b090df95e275f44c3f4f253c",
     "url": "/static/media/IMG_1118.692e5b25.jpg"
+  },
+  {
+    "revision": "4f51a33bc81a0e08115968b0917af423",
+    "url": "/static/media/Ryan.4f51a33b.jpg"
+  },
+  {
+    "revision": "87fbef73847f4825bfa8f3f967b171ab",
+    "url": "/static/media/Sofia.87fbef73.jpg"
+  },
+  {
+    "revision": "734a35f81cce55fee8b8c148b13a05c2",
+    "url": "/static/media/Xenocide.734a35f8.jpg"
   },
   {
     "revision": "6509f734a938327419c06d41116a248f",
@@ -96,14 +108,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/mindfulness-banner-01.7c73caba.png"
   },
   {
-    "revision": "29e8b29e91876ecdaa493a90dbbf3b88",
-    "url": "/static/media/our-coaches-2.29e8b29e.jpg"
-  },
-  {
-    "revision": "66123bdac51dcc28983774ea013c96c1",
-    "url": "/static/media/our-coaches-7.66123bda.jpg"
-  },
-  {
     "revision": "94de0520acb20dddd412634f5042c074",
     "url": "/static/media/shap1.94de0520.png"
   },
@@ -122,9 +126,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f97e3bbf73254b0112091d0192f17aec",
     "url": "/static/media/slick.f97e3bbf.svg"
-  },
-  {
-    "revision": "9d682e6d0e6b7a53bb850ac11b4d07bb",
-    "url": "/static/media/slider2.9d682e6d.png"
   }
 ]);
