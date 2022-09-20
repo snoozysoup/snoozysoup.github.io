@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.840089cb.chunk.css",
-    "main.js": "/static/js/main.824103b9.chunk.js",
-    "main.js.map": "/static/js/main.824103b9.chunk.js.map",
+    "main.css": "/static/css/main.a8858a35.chunk.css",
+    "main.js": "/static/js/main.96d90095.chunk.js",
+    "main.js.map": "/static/js/main.96d90095.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bfa21ac3.js",
     "runtime-main.js.map": "/static/js/runtime-main.bfa21ac3.js.map",
     "static/css/2.7169e904.chunk.css": "/static/css/2.7169e904.chunk.css",
-    "static/js/2.287b9040.chunk.js": "/static/js/2.287b9040.chunk.js",
-    "static/js/2.287b9040.chunk.js.map": "/static/js/2.287b9040.chunk.js.map",
+    "static/js/2.372d0fea.chunk.js": "/static/js/2.372d0fea.chunk.js",
+    "static/js/2.372d0fea.chunk.js.map": "/static/js/2.372d0fea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e4e0c599ca6527facc7b8eb12057add2.js": "/precache-manifest.e4e0c599ca6527facc7b8eb12057add2.js",
+    "precache-manifest.492b0a93f13b6bde3bb1f68ff0867ade.js": "/precache-manifest.492b0a93f13b6bde3bb1f68ff0867ade.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7169e904.chunk.css.map": "/static/css/2.7169e904.chunk.css.map",
-    "static/css/main.840089cb.chunk.css.map": "/static/css/main.840089cb.chunk.css.map",
-    "static/js/2.287b9040.chunk.js.LICENSE.txt": "/static/js/2.287b9040.chunk.js.LICENSE.txt",
+    "static/css/main.a8858a35.chunk.css.map": "/static/css/main.a8858a35.chunk.css.map",
+    "static/js/2.372d0fea.chunk.js.LICENSE.txt": "/static/js/2.372d0fea.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/shap1.94de0520.png",
     "static/media/flaticon.css": "/static/media/Flaticon.ceeb894f.woff2",
-    "static/media/IMG_1118.jpg": "/static/media/IMG_1118.692e5b25.jpg",
+    "static/media/Keith.jpg": "/static/media/Keith.1a6e9755.jpg",
     "static/media/Ryan.jpg": "/static/media/Ryan.4f51a33b.jpg",
     "static/media/Sofia.jpg": "/static/media/Sofia.87fbef73.jpg",
     "static/media/Xenocide.jpg": "/static/media/Xenocide.734a35f8.jpg",
     "static/media/collage1.png": "/static/media/collage1.6509f734.png",
+    "static/media/collage2.png": "/static/media/collage2.3a22a66b.png",
     "static/media/contact.svg": "/static/media/contact.53982e80.svg",
     "static/media/firstYearGuide_Banner.png": "/static/media/firstYearGuide_Banner.65f64590.png",
     "static/media/img-3.jpg": "/static/media/img-3.b8328fd0.jpg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.bfa21ac3.js",
     "static/css/2.7169e904.chunk.css",
-    "static/js/2.287b9040.chunk.js",
-    "static/css/main.840089cb.chunk.css",
-    "static/js/main.824103b9.chunk.js"
+    "static/js/2.372d0fea.chunk.js",
+    "static/css/main.a8858a35.chunk.css",
+    "static/js/main.96d90095.chunk.js"
   ]
 }
