@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a001dc89920cf1d9515a06b3f1dd50cd",
+    "revision": "11f055e3e7ea96e650c42286791cd4cf",
     "url": "/index.html"
   },
   {
-    "revision": "38b13882d1f487d1bbfb",
+    "revision": "41bafbcbaad8d449dd12",
     "url": "/static/css/2.7169e904.chunk.css"
   },
   {
-    "revision": "b89ddb78312ad6f7b600",
-    "url": "/static/css/main.60936949.chunk.css"
+    "revision": "71767089a925f2fc729b",
+    "url": "/static/css/main.2fa53fd2.chunk.css"
   },
   {
-    "revision": "38b13882d1f487d1bbfb",
-    "url": "/static/js/2.372d0fea.chunk.js"
+    "revision": "41bafbcbaad8d449dd12",
+    "url": "/static/js/2.4a134dbb.chunk.js"
   },
   {
     "revision": "00afd6f50307a850e43fafbdfb3ee738",
-    "url": "/static/js/2.372d0fea.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.4a134dbb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b89ddb78312ad6f7b600",
-    "url": "/static/js/main.d24b27e2.chunk.js"
+    "revision": "71767089a925f2fc729b",
+    "url": "/static/js/main.2b5176b5.chunk.js"
   },
   {
     "revision": "4aa0efac19c0ac88bd31",
     "url": "/static/js/runtime-main.bfa21ac3.js"
   },
   {
-    "revision": "907b74de12b89805612e69cd9ece33f6",
-    "url": "/static/media/ElegantIcons.907b74de.svg"
+    "revision": "7de9c3245a978281563254bb2cf4cf3e",
+    "url": "/static/media/ElegantIcons.7de9c324.svg"
   },
   {
     "revision": "d72ad3f702b9f23540e8ed78b4b65749",
@@ -52,20 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Flaticon.ceeb894f.woff2"
   },
   {
-    "revision": "61aa9d340ca2c9c265306229f9fa967f",
-    "url": "/static/media/Keith.61aa9d34.jpg"
-  },
-  {
-    "revision": "4f51a33bc81a0e08115968b0917af423",
-    "url": "/static/media/Ryan.4f51a33b.jpg"
-  },
-  {
-    "revision": "87fbef73847f4825bfa8f3f967b171ab",
-    "url": "/static/media/Sofia.87fbef73.jpg"
-  },
-  {
-    "revision": "734a35f81cce55fee8b8c148b13a05c2",
-    "url": "/static/media/Xenocide.734a35f8.jpg"
+    "revision": "b499ba6e45e6054ae4c513ed097f5bd0",
+    "url": "/static/media/Susie.b499ba6e.jpg"
   },
   {
     "revision": "5bd6e8b60f86da9d3b28f07c55d4b1d2",
@@ -88,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/et-line.26ec3c7d.eot"
   },
   {
-    "revision": "569bd9082c15cc30fa6e05626abdd505",
-    "url": "/static/media/et-line.569bd908.svg"
+    "revision": "2bea85e74624239934653d10a63c88bc",
+    "url": "/static/media/et-line.2bea85e7.svg"
   },
   {
     "revision": "98126e3e1238b0f3b941ad285320ce28",
@@ -100,16 +88,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/et-line.b01ff252.woff"
   },
   {
-    "revision": "65f645907066f5790f63a17f506216cc",
-    "url": "/static/media/firstYearGuide_Banner.65f64590.png"
+    "revision": "085d58573579c05dd8d7c68689cd40d6",
+    "url": "/static/media/image4.085d5857.png"
   },
   {
-    "revision": "b8328fd04335c47f207210c60132533c",
-    "url": "/static/media/img-3.b8328fd0.jpg"
+    "revision": "9e4092992f4d812c5541f16de66e1f3c",
+    "url": "/static/media/image5.9e409299.png"
   },
   {
-    "revision": "7c73cabaa71ec6d3dabfbc1a7de1d511",
-    "url": "/static/media/mindfulness-banner-01.7c73caba.png"
+    "revision": "246864c61cf7e2cd7fb52bc3278c22ad",
+    "url": "/static/media/image6.246864c6.png"
+  },
+  {
+    "revision": "ca855754b2cd5842eaf6831b38f5e98e",
+    "url": "/static/media/image8.ca855754.png"
   },
   {
     "revision": "94de0520acb20dddd412634f5042c074",
